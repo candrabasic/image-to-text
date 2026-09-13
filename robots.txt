@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://platka-image-text.pages.dev/sitemap.xml
